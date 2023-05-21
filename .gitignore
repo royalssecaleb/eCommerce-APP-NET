@@ -1,0 +1,11 @@
+obj
+bin
+*.db
+appsettings.json
+*.rdb
+settings.json
+publish
+.idea
+sports-center - Web Deploy.pubxml
+sports-center - Web Deploy.pubxml.user
+documentation
